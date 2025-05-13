@@ -32,3 +32,16 @@ Benchmark typical queries.
 Adjust work_mem, shared_buffers, parallel_*, effective_cache_size.
 
 Measure throughput, pick optimal settings.
+
+
+Distributed horizontal scaling (sharding, replication).
+
+Fuzzy matching, synonyms, stemming, analyzers.
+
+Relevance scoring, custom ranking.
+
+Complex aggregations and nested queries.
+
+Useful for search-heavy UIs or huge datasets.
+
+all stuff that could be just added and donated to the postgresql foundation
