@@ -45,3 +45,6 @@ Complex aggregations and nested queries.
 Useful for search-heavy UIs or huge datasets.
 
 all stuff that could be just added and donated to the postgresql foundation
+
+
+look at https://github.com/sourmash-bio/sourmash
